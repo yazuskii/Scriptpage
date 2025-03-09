@@ -61,8 +61,8 @@ button:hover {
     color: #ccc;
 }
 
-/* Snapchat Section */
-.snapchat {
+/* Discord Section */
+.discord {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -71,7 +71,7 @@ button:hover {
     color: #fffc00;
 }
 
-.snapchat img {
+.discord img {
     width: 30px;
     height: 30px;
     margin-right: 10px;
