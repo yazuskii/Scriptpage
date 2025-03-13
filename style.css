@@ -44,8 +44,8 @@ h1 {
 }
 
 .platform-buttons button img {
-    width: 24px;
-    height: 24px;
+    width: 24px; /* Fixed logo size */
+    height: 24px; /* Fixed logo size */
     margin-right: 10px;
 }
 
